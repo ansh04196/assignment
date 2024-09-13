@@ -5,7 +5,7 @@ The application is deployed on Vercel. Check it out [here](https://assignment-et
 
 ## Getting Started
 
-Follow these instructions to set up Sketchy locally.
+Follow these instructions to set up locally.
 
 ### Prerequisites
 
