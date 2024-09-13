@@ -29,12 +29,8 @@ Ensure you have the following installed on your system:
    npm install
    ```
 
-3. **Configure environment variables:**
 
-   Create a `.env.local` file in the root directory and add your configuration variables. You can explore the `.env.example` file for more information.
-
-
-6. **Run the development server:**
+4. **Run the development server:**
 
    ```sh
    npm run dev
